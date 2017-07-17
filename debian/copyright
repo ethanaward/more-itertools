@@ -2,13 +2,12 @@ Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: more-itertools
 Source: https://pypi.python.org/pypi/more-itertools
 
-Files: debian/*
-Copyright: (c) 2017, Mycroft Devs <devops@mycroft.ai>
-           (c) 2017, Clive Johnston <clivejo@kubuntu.org>
-License: MIT-style
-
 Files: *
 Copyright: (c) 2017 Erik Rose
+License: MIT-style
+
+Files: debian/*
+Copyright: (c) 2017, Ethan Ward <ethan.ward@mycroft.ai>
 License: MIT-style
 
 License: MIT-style

@@ -1,5 +1,5 @@
-more-itertools (2.6.0-0ubuntu1~ubuntu17.04~ppa3) zesty; urgency=medium
+more-itertools (2.6.0-1) UNRELEASED; urgency=medium
 
-  * Change licensing
+  * Initial Debian packaging
 
- -- Mycroft Devs <devops@mycroft.ai>  Wed, 24 May 2017 17:06:08 +0000
+ -- Mycroft Devs <devops@mycroft.ai>  Mon, 17 Jul 2017 10:06:08 +0000
